@@ -1,2 +1,2 @@
 # recetas
-Es una proyecto de práctica
+Proyecto de práctica
